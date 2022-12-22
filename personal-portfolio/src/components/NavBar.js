@@ -2,12 +2,12 @@ import React from "react";
 import Container from "react-bootstrap/Container";
 import Nav from "react-bootstrap/Nav";
 import Navbar from "react-bootstrap/Navbar";
-import NavDropdown from "react-bootstrap/NavDropdown";
+// import NavDropdown from "react-bootstrap/NavDropdown";
 
 import logo from '../assets/img/logo.svg'
-import NavIcon1 from '../assets/img/nav-icon1.svg'
-import NavIcon2 from '../assets/img/nav-icon2.svg'
-import NavIcon3 from '../assets/img/nav-icon3.svg'
+import navIcon1 from '../assets/img/nav-icon1.svg'
+import navIcon2 from '../assets/img/nav-icon2.svg'
+import navIcon3 from '../assets/img/nav-icon3.svg'
 
 import { useState, useEffect } from "react";
 
@@ -60,13 +60,13 @@ function NavBar() {
           <span className="navbar-text">
             <div className="social-icon">
               <a href="#">
-                <img src={NavIcon1} alt=""></img>
+                <img src={navIcon1} alt=""></img>
               </a>
               <a href="#">
-                <img src={NavIcon2} alt=""></img>
+                <img src={navIcon2} alt=""></img>
               </a>
               <a href="#">
-                <img src={NavIcon3} alt=""></img>
+                <img src={navIcon3} alt=""></img>
               </a>
             </div>
             <button className='vvd' onClick={() => console.log('connect')}> <span> Let's Connect</span></button>
