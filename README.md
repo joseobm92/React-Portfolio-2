@@ -65,6 +65,7 @@
 
   ## Demo
 [Deployed Website](https://joseobm92.github.io/React-Portfolio-2/)
+![alt text](./personal-portfolio/src/assets/img/portfolio.png)
 
 
  <p align="right">(<a href="#readme-top">back to top</a>)</p>
