@@ -64,8 +64,8 @@
   N/A
 
   ## Demo
-[Deployed Website](https://vast-gorge-15693.herokuapp.com/)
-![alt text](./client/src/components/images/reactportfolio.png)
+[Deployed Website](https://joseobm92.github.io/React-Portfolio-2/)
+
 
  <p align="right">(<a href="#readme-top">back to top</a>)</p>
  
